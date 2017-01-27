@@ -1,0 +1,22 @@
+{
+  "name": "woozy",
+  "version": "1.0.0",
+  "description": "labs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisterCruz/WoozyLabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisterCruz/WoozyLabs/issues"
+  },
+  "homepage": "https://github.com/MisterCruz/WoozyLabs#readme",
+  "dependencies": {
+    "hover.css": "^2.0.2"
+  }
+}
